@@ -5,8 +5,9 @@ lang: en
 
 [한국어](./)
 
+# Knock Knock Privacy Policy
 
-Effective date: 2026-11-08
+Effective date: 2026-11-08  
 Last updated: 2026-11-08
 
 Knock Knock ("the app") is a calendar app that picks reminder times for the events you write down. The app **has no server, no sign-up and no login, and it never sends the events you write to the developer.** This policy explains what information the app handles on your device, and the few cases where information leaves it.
